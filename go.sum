@@ -4,4 +4,6 @@ github.com/google/go-querystring v1.1.0 h1:AnCroh3fv4ZBgVIf1Iwtovgjaw/GiKJo8M8yD
 github.com/google/go-querystring v1.1.0/go.mod h1:Kcdr2DB4koayq7X8pmAG4sNG59So17icRSOU623lUBU=
 github.com/theboringindustries/postgrest-go v0.0.0-20240510163335-3a3e2f43b537 h1:eKWxNxoppeUeR+76/Xu3tJcKFgZwAk9a/JqWl1kq3ns=
 github.com/theboringindustries/postgrest-go v0.0.0-20240510163335-3a3e2f43b537/go.mod h1:k1Pv/P3gBSFKji97bWBuDFwbqiZhrmIkIG2h4grY4OY=
+github.com/theboringindustries/postgrest-go v0.1.0 h1:RgKx5Js9VUk15YttUmV5W3iz/RyKhKxDVxcTbRjGYOU=
+github.com/theboringindustries/postgrest-go v0.1.0/go.mod h1:k1Pv/P3gBSFKji97bWBuDFwbqiZhrmIkIG2h4grY4OY=
 golang.org/x/xerrors v0.0.0-20191204190536-9bdfabe68543/go.mod h1:I/5z698sn9Ka8TeJc9MKroUUfqBBauWjQqLJ2OPfmY0=
