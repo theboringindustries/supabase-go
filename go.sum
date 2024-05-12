@@ -6,4 +6,6 @@ github.com/theboringindustries/postgrest-go v0.1.0 h1:RgKx5Js9VUk15YttUmV5W3iz/R
 github.com/theboringindustries/postgrest-go v0.1.0/go.mod h1:k1Pv/P3gBSFKji97bWBuDFwbqiZhrmIkIG2h4grY4OY=
 github.com/theboringindustries/postgrest-go v0.3.0 h1:NB3BTlDtjSi+MEfid2F+CraHR/MbH1cDbXPHoOOSrPk=
 github.com/theboringindustries/postgrest-go v0.3.0/go.mod h1:k1Pv/P3gBSFKji97bWBuDFwbqiZhrmIkIG2h4grY4OY=
+github.com/theboringindustries/postgrest-go v0.4.0 h1:s666r/3UQ32jNrmWdcTi7NuJ99g7jMz1h61XXzJpW2o=
+github.com/theboringindustries/postgrest-go v0.4.0/go.mod h1:k1Pv/P3gBSFKji97bWBuDFwbqiZhrmIkIG2h4grY4OY=
 golang.org/x/xerrors v0.0.0-20191204190536-9bdfabe68543/go.mod h1:I/5z698sn9Ka8TeJc9MKroUUfqBBauWjQqLJ2OPfmY0=
